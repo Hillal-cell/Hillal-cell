@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hillal-cell&label=Profile%20views&color=0e75b6&style=flat" alt="hillal-cell" /> </p>
 
-- 🌱 I’m currently learning **Kotlin,React,Docker,Flutter**
+- 🌱 I’m currently learning **Kotlin,React,Docker,Kubernetes and most importantly Go**
 
 - 👨‍💻 All of my projects are available at [github.com/Hillal-cell](github.com/Hillal-cell)
 
-- 💬 Ask me about **Java,Php,Mysql,DataStructures,Linux environment,Html,Css**
+- 💬 Ask me about **Java,Php,Mysql,Postgresql,DataStructures,Linux environment,Html,Css**
 
 - 📫 How to reach me **sayrunjogi@gmail.com**
 
